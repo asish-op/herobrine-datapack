@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #minecraft:doors run setblock ~ ~ ~ air

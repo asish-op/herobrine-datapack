@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #minecraft:leaves if predicate herobrine:leaves run setblock ~ ~ ~ air

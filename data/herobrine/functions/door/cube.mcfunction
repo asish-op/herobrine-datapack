@@ -1,0 +1,11 @@
+execute positioned ~ ~5 ~ run function herobrine:door/area
+execute positioned ~ ~4 ~ run function herobrine:door/area
+execute positioned ~ ~3 ~ run function herobrine:door/area
+execute positioned ~ ~2 ~ run function herobrine:door/area
+execute positioned ~ ~1 ~ run function herobrine:door/area
+execute positioned ~ ~ ~ run function herobrine:door/area
+execute positioned ~ ~-1 ~ run function herobrine:door/area
+execute positioned ~ ~-2 ~ run function herobrine:door/area
+execute positioned ~ ~-3 ~ run function herobrine:door/area
+execute positioned ~ ~-4 ~ run function herobrine:door/area
+execute positioned ~ ~-5 ~ run function herobrine:door/area

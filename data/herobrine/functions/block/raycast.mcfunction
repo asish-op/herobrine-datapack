@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ air positioned ^ ^ ^0.5 run function herobrine:block/raycast
+execute unless block ~ ~ ~ air run summon armor_stand ~ ~ ~ {Marker:1b,Invisible:1b,Small:1b,Tags:["herobrine_block"]}
